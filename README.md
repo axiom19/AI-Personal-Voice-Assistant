@@ -40,6 +40,12 @@ The result is a fully functional virtual assistant capable of understanding and 
 5. Run the server: `python server.py`
 6. Open `http://localhost:8000` in your browser
 
+## Demo
+
+Check out this short demo of the AI Voice Assistant in action:
+
+https://github.com/axiom19/AI-Personal-Voice-Assistant/blob/main/demo/demo%20.mov
+
 ## Note
 
 This project requires additional setup for speech-to-text and text-to-speech services. Please refer to the documentation for more details on configuring these components.
